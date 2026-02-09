@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env
+.venv/
+venv/
+
+# Vault y backups (NO subir nunca)
+*.db
+*.enc.json
+
+# OS
+.DS_Store
+Thumbs.db
